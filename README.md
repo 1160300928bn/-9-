@@ -1,4 +1,5 @@
 # -9-第一时间找到你
+注册github账号，进入页面点击fork
 进入readme,点击文本左上角edit，修改资料
 修改完各自资料后（请自行对齐）点击绿色Commit changes按钮
 进入新界面点击Pull Request按钮提交申请即可
